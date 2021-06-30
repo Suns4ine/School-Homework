@@ -11,3 +11,4 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [ ] [Lecture 6](Lecture\ 6/Homework\ 6.swift) `Не сделано`
 - [ ] [Lecture 7](Lecture\ 7/Homework\ 7.swift) `Не сделано`
 - [ ] [Lecture 8](Lecture\ 8/Homework\ 8.swift) `Не сделано`
+
