@@ -8,6 +8,6 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [x] [Lecture 3](Lecture-3/Homework-3.swift) `Сделано`
 - [ ] [Lecture 4](Lecture-4/Homework-4.swift) `Не сделано`
 - [x] [Lecture 5](Lecture-5/Homework-5.swift) `Сделано`
-- [ ] [Lecture 6](Lecture-6/Homework-6.swift) `Не сделано`
+- [x] [Lecture 6](Lecture-6) `Сделано`
 - [ ] [Lecture 7](Lecture-7/Homework-7.swift) `Не сделано`
 - [ ] [Lecture 8](Lecture-8/Homework-8.swift) `Не сделано`
