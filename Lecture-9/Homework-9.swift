@@ -94,3 +94,58 @@ messagesMediator.addAssociate(associate: userFirst)
 messagesMediator.addAssociate(associate: userSecond)
 
 userFirst.send(message: "Удачи")
+
+//Singleton
+
+struct DataSingleton {
+    static let shared = Data()
+    
+    private init() { }
+    
+}
+
+let dataOne = DataSingleton.shared
+let dataTwo = DataSingleton.shared
+
+//Prototype
+
+import UIKit
+
+enum Color {
+    case blue
+    case green
+    case red
+}
+
+class PencilPack {
+
+    var count: Int
+    var color: Color
+    var manufacturer: String
+
+    init(count: Int,
+         color: Color,
+         manufacturer: String = "") {
+
+        self.count = count
+        self.color = color
+        self.manufacturer = manufacturer
+    }
+
+    func clone() -> PencilPack {
+        return PencilPack(count: self.count, color: self.color, manufacturer: self.manufacturer)
+    }
+}
+
+let base = PencilPack(count: 12, color: .blue)
+
+let bluePencil = base.clone()
+bluePencil.manufacturer = "Faber"
+
+let greenPencil = base.clone()
+greenPencil.color = .green
+greenPencil.manufacturer = "Maped"
+
+let redPencil = base.clone()
+redPencil.color = .red
+redPencil.manufacturer = "Erich Krause"
