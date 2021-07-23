@@ -15,5 +15,5 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [x] [Lecture 10](Lecture-10) `Сделано`
 - [x] [Lecture 11](Lecture-11) `Сделано`
 - [x] [Lecture 13](Lecture-13) `Сделано`
-- [ ] [Lecture 14](Lecture-14) `Не сделано`
+- [x] [Lecture 14](Lecture-14) `Сделано`
 - [ ] [Lecture 15](Lecture-15) `Не сделано`

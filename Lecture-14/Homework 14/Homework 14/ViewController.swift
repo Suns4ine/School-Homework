@@ -27,8 +27,6 @@ class ViewController: UIViewController {
     
     private lazy var donutView: DonutView = {
         let view = DonutView()
-        //view.layer.cornerRadius = size / 2
-        //view.backgroundColor = .systemPink
         view.translatesAutoresizingMaskIntoConstraints = false
         return view
     }()
@@ -37,7 +35,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         view.backgroundColor = .systemIndigo
-        self.navigationController?.navigationBar.barTintColor = .systemBackground
+        //self.navigationController?.navigationBar.barTintColor = .systemBackground
+        self.navigationController?.setNavigationBarHidden(true, animated: true)
         
         
         setup()
