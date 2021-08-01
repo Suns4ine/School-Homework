@@ -13,12 +13,12 @@ class ViewController: UIViewController {
     
     private lazy var donutButton: UIButton = {
         let button = UIButton()
-        button.backgroundColor = .clear
+        button.backgroundColor = .yellow
         button.titleLabel?.textAlignment = .center
         button.title(for: .normal)
         button.setTitle("Нажми", for: .normal)
         button.clipsToBounds = true
-        button.layer.cornerRadius = size / 4
+        button.layer.cornerRadius = size / 2
         button.setTitleColor(.systemPink, for: .normal)
         button.addTarget(self, action: #selector(newController), for: .touchUpInside)
         button.translatesAutoresizingMaskIntoConstraints = false
@@ -58,8 +58,8 @@ class ViewController: UIViewController {
             
             donutButton.centerXAnchor.constraint(equalTo: view.centerXAnchor),
             donutButton.centerYAnchor.constraint(equalTo: view.centerYAnchor),
-            donutButton.heightAnchor.constraint(equalToConstant: size / 2),
-            donutButton.widthAnchor.constraint(equalToConstant: size / 2),
+            donutButton.heightAnchor.constraint(equalToConstant: size),
+            donutButton.widthAnchor.constraint(equalToConstant: size),
         ])
     }
     
