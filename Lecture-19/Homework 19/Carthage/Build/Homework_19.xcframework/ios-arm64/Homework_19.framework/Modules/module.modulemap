@@ -1,0 +1,11 @@
+framework module Homework_19 {
+  umbrella header "Homework_19.h"
+
+  export *
+  module * { export * }
+}
+
+module Homework_19.Swift {
+    header "Homework_19-Swift.h"
+    requires objc
+}

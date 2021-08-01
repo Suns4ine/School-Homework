@@ -1,0 +1,28 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "219afff2e301e1199e4749dfdc1ef28a87ba4ef1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "2712040671a4f08dba3771bc4f5634fa636157f15bb9dccacac9562b194be088",
+      "name" : "Homework_19",
+      "container" : "Homework_19.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "916095de1bccd8886274e56403754c4ab2b0a757648316d91f157fa039c90e01",
+      "name" : "Homework_19",
+      "container" : "Homework_19.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}
