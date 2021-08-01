@@ -19,7 +19,7 @@ final class DonutView: UIView {
     }
     
     override func draw(_ rect: CGRect) {
-      let half: CGFloat = min(bounds.size.width / 2, bounds.size.height / 2)
+      let half: CGFloat = min(frame.size.width / 2, frame.size.height / 2)
       
       let circlePath = UIBezierPath(arcCenter: CGPoint(x:half,y:half) ,
                                     radius: half,
