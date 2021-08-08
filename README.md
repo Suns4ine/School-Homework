@@ -23,5 +23,5 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [ ] Lecture 17 `Не выдано`
 - [ ] Lecture 18 `Не выдано`
 - [x] [Lecture 19](Lecture-19) `Сделано`
-- [ ] [Lecture 20](Lecture-20) `Не сделано`
+- [x] [Lecture 20](Lecture-20) `Сделано`
 - [x] [Lecture 21](Lecture-21) `Сделано`
