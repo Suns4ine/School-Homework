@@ -199,6 +199,7 @@ extension CreateMemViewController {
        if UIImagePickerController.isSourceTypeAvailable(UIImagePickerController.SourceType.photoLibrary){
            let imagePicker = UIImagePickerController()
            imagePicker.delegate = self
+            imagePicker.isEditing = true
            imagePicker.sourceType = UIImagePickerController.SourceType.photoLibrary
            self.present(imagePicker, animated: true, completion: nil)
        } else {
@@ -214,6 +215,7 @@ extension CreateMemViewController {
             imagePicker.delegate = self
             imagePicker.sourceType = UIImagePickerController.SourceType.camera
             imagePicker.allowsEditing = false
+            imagePicker.isEditing = true
             self.present(imagePicker, animated: true, completion: nil)
         } else {
             let alert  = UIAlertController(title: "Осторожно", message: "У вас нет камеры.", preferredStyle: .alert)
