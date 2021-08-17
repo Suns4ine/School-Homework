@@ -74,3 +74,38 @@ class AutoBot: Transformer {
 
 var autoBot = AutoBot()
 autoBot.nameAuto()
+
+func sum(num1: String, num2: String) -> String {
+    var first = String(num1.reversed())
+    var second = String(num2.reversed())
+        
+    if first.count > second.count {
+        first = String(num2.reversed())
+        second = String(num1.reversed())
+    }
+
+    var result = ""
+    var remnant = 0
+
+    let firstNumb = first.map{ Int(String($0))}
+    let secondNumb = second.map{ Int(String($0))}
+
+    for index in firstNumb.indices {
+        let sum = firstNumb[index]! + secondNumb[index]! + remnant
+        remnant = sum / 10
+        result += String(sum % 10)
+    }
+
+    if secondNumb.count > firstNumb.count {
+        for index in firstNumb.count..<secondNumb.count {
+            let sum = secondNumb[index]! + remnant
+            remnant = sum / 10
+            result += String(sum % 10)
+        }
+    }
+    if remnant > 0 {
+        result += String(remnant)
+    }
+    
+    return String(result.reversed())
+}
