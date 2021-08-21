@@ -25,18 +25,18 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [x] [Lecture 19](Lecture-19) `Сделано`
 - [x] [Lecture 20](Lecture-20) `Сделано`
 - [x] [Lecture 21](Lecture-21) `Сделано`
- - [ ] Lecture 22 `Не выдано`
- - [ ] Lecture 23 `Не выдано`
- - [ ] Lecture 24 `Не выдано`
- - [ ] Lecture 25 `Не выдано`
- - [ ] Lecture 26 `Не выдано`
- - [ ] Lecture 27 `Не выдано`
- - [ ] Lecture 28 `Не выдано`
- - [ ] Lecture 29 `Не выдано`
- - [ ] Lecture 30 `Не выдано`
- - [ ] Lecture 31 `Не выдано`
- - [ ] Lecture 32 `Не выдано`
- - [ ] Lecture 33 `Не выдано`
- - [ ] Lecture 34 `Не выдано`
- - [ ] Lecture 35 `Не выдано`
- - [ ] Lecture 36 `Не выдано`
+- [ ] Lecture 22 `Не выдано`
+- [ ] Lecture 23 `Не выдано`
+- [x] [Lecture 24](Lecture-24) `Сделано`
+- [ ] Lecture 25 `Не выдано`
+- [ ] Lecture 26 `Не выдано`
+- [ ] Lecture 27 `Не выдано`
+- [ ] Lecture 28 `Не выдано`
+- [ ] Lecture 29 `Не выдано`
+- [ ] Lecture 30 `Не выдано`
+- [ ] Lecture 31 `Не выдано`
+- [ ] Lecture 32 `Не выдано`
+- [ ] Lecture 33 `Не выдано`
+- [ ] Lecture 34 `Не выдано`
+- [ ] Lecture 35 `Не выдано`
+- [ ] Lecture 36 `Не выдано`
