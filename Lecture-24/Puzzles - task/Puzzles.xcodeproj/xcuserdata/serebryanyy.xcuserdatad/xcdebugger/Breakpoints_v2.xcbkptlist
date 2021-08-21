@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04864096-48E2-417C-8C56-D84D6CE7EA8D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D31CCA6-C52E-41BF-92E2-1B1D9C1D365A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Puzzles/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "loadPuzzle(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "667A51F1-87D7-4FFF-9C73-F3E27C0F4313"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Puzzles/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "puzzle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "667A51F1-87D7-4FFF-9C73-F3E27C0F4313 - e8be1adbf9d2d78f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Puzzles.ViewController.puzzle() -&gt; ()"
+                  moduleName = "Puzzles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/serebryanyy/Downloads/Puzzles/Puzzles/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "667A51F1-87D7-4FFF-9C73-F3E27C0F4313 - 56d0c821080c7031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.UIImage, Swift.Error&gt;) -&gt; () in Puzzles.ViewController.puzzle() -&gt; ()"
+                  moduleName = "Puzzles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/serebryanyy/Downloads/Puzzles/Puzzles/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "667A51F1-87D7-4FFF-9C73-F3E27C0F4313 - 3c5f76f8c3373625"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;__C.UIImage, Swift.Error&gt;) -&gt; () in Puzzles.ViewController.puzzle() -&gt; ()"
+                  moduleName = "Puzzles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/serebryanyy/Downloads/Puzzles/Puzzles/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "211">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAFE002B-A286-4167-B216-4C8A430348BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Puzzles/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "puzzle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAFE002B-A286-4167-B216-4C8A430348BE - 56d0c821080c706e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.UIImage, Swift.Error&gt;) -&gt; () in Puzzles.ViewController.puzzle() -&gt; ()"
+                  moduleName = "Puzzles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/serebryanyy/Downloads/Puzzles/Puzzles/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "FAFE002B-A286-4167-B216-4C8A430348BE - 3c5f76f8c3373625"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;__C.UIImage, Swift.Error&gt;) -&gt; () in Puzzles.ViewController.puzzle() -&gt; ()"
+                  moduleName = "Puzzles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/serebryanyy/Downloads/Puzzles/Puzzles/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "211">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
