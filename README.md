@@ -32,7 +32,7 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [ ] Lecture 26 `Не выдано`
 - [ ] Lecture 27 `Не выдано`
 - [ ] Lecture 28 `Не выдано`
-- [ ] Lecture 29 `Не выдано`
+- [x] [Lecture 29](Lecture-29) `Сделано`
 - [ ] Lecture 30 `Не выдано`
 - [ ] Lecture 31 `Не выдано`
 - [ ] Lecture 32 `Не выдано`
