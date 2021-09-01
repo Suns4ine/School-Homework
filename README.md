@@ -34,7 +34,7 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [ ] Lecture 28 `Не выдано`
 - [x] [Lecture 29](Lecture-29) `Сделано`
 - [ ] Lecture 30 `Не выдано`
-- [ ] Lecture 31 `Не выдано`
+- [x] [Lecture 31](Lecture-31) `Сделано`
 - [ ] Lecture 32 `Не выдано`
 - [ ] Lecture 33 `Не выдано`
 - [ ] Lecture 34 `Не выдано`
