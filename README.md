@@ -7,7 +7,7 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [ ] Lecture 1 `Не выдано`
 - [x] [Lecture 2](Lecture-2/Homework-2) `Сделано`
 - [x] [Lecture 3](Lecture-3/Homework-3.swift) `Сделано`
-- [ ] [Lecture 4](Lecture-4/Homework-4.swift) `Не сделано`
+- [ ] Lecture 4 `Не сделано`
 - [x] [Lecture 5](Lecture-5/Homework-5.swift) `Сделано`
 - [x] [Lecture 6](Lecture-6) `Сделано`
 - [x] [Lecture 7](Lecture-7/Homework-7.swift) `Сделано`
@@ -35,7 +35,7 @@ Hello, my name's Vyacheslav. This is a private homework repository from SberScho
 - [x] [Lecture 29](Lecture-29) `Сделано`
 - [ ] Lecture 30 `Не выдано`
 - [x] [Lecture 31](Lecture-31) `Сделано`
-- [ ] Lecture 32 `Не выдано`
+- [x] Lecture 32 `В другом репозитории`
 - [ ] Lecture 33 `Не выдано`
 - [ ] Lecture 34 `Не выдано`
 - [ ] Lecture 35 `Не выдано`
